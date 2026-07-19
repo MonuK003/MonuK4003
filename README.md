@@ -88,39 +88,30 @@ Responsibilities included:
 ---
 
 ## 📂 Featured Projects
+# 💳 SmartPay Banking Platform
 
-### 💳 Dispute Resolution System (Fiserv)
+An enterprise-style banking microservices platform built using Spring Boot, Kafka, Redis, PostgreSQL, and distributed systems design principles.
 
-- Developed REST APIs for dispute management
-- Built Kafka-based asynchronous messaging
-- Debugged production issues
-- Optimized SQL queries
-- Worked with Spring Boot Microservices
+## 🚀 Features
 
-**Tech Stack**
+- Microservices architecture
+- Event-driven communication using Apache Kafka
+- API Gateway for centralized routing
+- Distributed caching with Redis
+- Distributed rate limiting
+- Synchronous inter-service communication using OpenFeign
+- Asynchronous messaging using Kafka
+- Fault tolerance using Resilience4j
+- Retry and Circuit Breaker patterns
+- Distributed request tracing using Correlation IDs
+- Structured logging with MDC
+- Global exception handling
+- Dockerized local infrastructure
 
-Java • Spring Boot • Kafka • PostgreSQL • Oracle SQL • Maven • Jenkins
+## 🛠 Tech Stack
 
----
+**Java 21 • Spring Boot 3 • Spring Cloud Gateway • OpenFeign • Apache Kafka • PostgreSQL • Redis • Resilience4j • Docker Compose • Maven**
 
-### 💳 Card Transaction & Customer Servicing Platform (American Express)
-
-- Backend enhancement
-- REST API development
-- Exception handling
-- Database integration
-- Production support
-
----
-
-### 🏦 Legacy Banking API Modernization (TSB Bank)
-
-- Migrated SOAP services to REST APIs
-- Improved API reliability
-- Structured exception handling
-- Request validation
-
----
 
 ### 🤖 LLM Chat API
 
